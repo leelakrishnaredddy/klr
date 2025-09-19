@@ -1,0 +1,10 @@
+ krishna aws    24lpa wfh
+ sai     front  12lpa wfh
+ hari    sap    18lpa wfh
+ skrishn react  15lpa wfh
+ teja    medi   10lpa wfh
+ ramu    scan   8lpa  wfo
+ raju    qc     6lpa  wfo
+ ayyapa  qc     7lpa  wfo
+ ravi    qa     8lpa  wfo
+
